@@ -5,7 +5,7 @@ Apostolos Mikas [mikas.a@live.unic.ac.cy](mailto:mikas.a@live.unic.ac.cy)
 
 ## Background and Motivation
 
-During this project, we will create a movie recommendation system based on big data sourced from the popular streaming platform Netflix.
+During this project, we created a movie recommendation system based on big data sourced from the popular streaming platform Netflix.
 
 Netflix has revolutionized the way we watch movies. From its beginning, it has been motivated to give its users the best experience possible when watching movies. Today, it offers a massive selection of movies and recommendations, to help its viewers find the best fit for them and provide an optimum viewing experience.
 
@@ -18,11 +18,11 @@ Some interesting Netflix facts and statistics [1]:
 
 ## Project Objectives (Hypothesis)
 
-The first question we will try to answer is how to personalize a streaming service as much as possible for each user who uses it.
+The first question we try to answer is how to personalize a streaming service as much as possible for each user who uses it.
 
 ## Data Sources
 
-We will use data sourced from Netflix. On the occasion of the Netflix prize, Netflix published a dataset with over 100 million ratings given to 17 thousand of movies by 480 thousand users. The total size of the Netflix dataset is a little above 2GB.[3]
+We used data sourced from Netflix. On the occasion of the Netflix prize, Netflix published a dataset with over 100 million ratings given to 17 thousand of movies by 480 thousand users. The total size of the Netflix dataset is a little above 2GB.[3]
 
 ## Big Data Dimensions
 
@@ -35,9 +35,9 @@ We will use data sourced from Netflix. On the occasion of the Netflix prize, Net
 The tools that we used:
 
 - Python / Jupyter Notebooks
-- NoSQL database, i.e., MongoDB
+- MongoDB NoSQL (local community version)
 - Apache Spark
-- Laptop
+- A Laptop
   - OS: Windows 10
   - CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz 2.81 GHz
   - RAM: 16,0 GB
